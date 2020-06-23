@@ -1,0 +1,5 @@
+import math
+a=7
+p=48
+area=1/2*a*p
+print(area)

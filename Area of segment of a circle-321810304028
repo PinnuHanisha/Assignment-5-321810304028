@@ -1,0 +1,5 @@
+import math
+rad=45
+degree=30
+area=(math.pi)*(rad*rad)*(degree/360)
+print(area)

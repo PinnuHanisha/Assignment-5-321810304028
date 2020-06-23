@@ -1,0 +1,30 @@
+import math
+a=math.sin(60)
+print(a)
+
+b=math.pi#cos(pi)
+a=math.cos(b)
+print(a)
+
+a=math.tan(90)
+print(a)
+
+a=math.sqrt(400)#square root
+print(a)
+
+a=math.degrees(0.8660254037844386)#angle of sin
+b=math.sin(a)
+print(a)
+
+a=math.pow(5,8)#power
+print(a)
+
+e=math.e #power e
+a=math.pow(5,e)
+print(a)
+ 
+a=math.log2(1024)
+print(a)
+
+a=math.log10(1024)
+print(a)
